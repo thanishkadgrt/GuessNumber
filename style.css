@@ -1,0 +1,66 @@
+body{
+    background: url("https://cdn.pixabay.com/photo/2020/09/23/03/54/background-5594879_1280.jpg");
+}
+.main{
+    border: 5px solid rgb(253, 0, 219);
+    width: 600px;
+    text-align: center;
+    background: rgb(247, 247, 247);
+    margin: auto;
+    margin-top: 12%;
+}
+
+
+li{
+    text-align: justify;
+    padding-left: 145px;
+    padding-bottom: 5px;
+    color:rgb(0, 0, 0);
+}
+
+
+#n1{
+    width: 250px;
+    height: 25px;
+    text-align: center;
+    border: 2px solid black;
+    margin-top: 20px;
+}
+
+
+#btn{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 25px;
+}
+
+
+input[type="submit"]{
+    height: 25px;
+    width: 75px;
+    background: rgb(252, 5, 194);
+    color: black;
+    font-size:medium;
+    font-weight: bold;
+    border: 0;
+    box-shadow: 5px 5px 5px black;
+}
+
+
+h1{
+    color: rgb(0, 0, 0);
+}
+
+
+h3{
+    color:red
+}
+
+
+#res{
+    width: 500px;
+    height: 25px;
+    color: black;
+    background: red;
+    margin-left: 60px;
+}
